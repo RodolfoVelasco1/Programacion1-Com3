@@ -1,7 +1,7 @@
-#Alumno: Rodolfo Nicolás Velasco Fessler
+﻿#Alumno: Rodolfo Nicolás Velasco Fessler
 #Link al repositorio en Github: https://github.com/RodolfoVelasco1/Programacion1-Com3
 
-fecha = input("Ingrese el día (lunes, martes, etc): ") + ", " + input("Ingrese el número de día: ") + "/" + input("Ingrese el número de més: ")
+fecha = input("Ingrese la fecha en formato día, DD/MM : ")
 fecha = fecha.lower()
 print(fecha)
 
