@@ -1,4 +1,6 @@
-#Alumno: Rodolfo Nicolás Velasco Fessler
+﻿#Alumno: Rodolfo Nicolás Velasco Fessler
+#Mi repositorio en GitHub: https://github.com/RodolfoVelasco1/Programacion1-Com3
+
 #Ejercicio 1
 
 numero1 = 30
@@ -85,5 +87,6 @@ nombre_mayus = "RODOLFO"
 print(nombre_mayus.lower())
 
 #Ejercicio 16
+
 nombre_mayus = "RODOLFO"
-print(nombre_mayus.capitalize())
+print(nombre_mayus.title())
